@@ -1,5 +1,5 @@
 # Inherit AOSP device configuration for crespo.
-$(call inherit-product, device/motorola/droid2we/full_droid2we.mk)
+$(call inherit-product, device/motorola/droid2we/droid2we.mk)
 
 # Inherit common product files.
 $(call inherit-product, vendor/angel/products/common.mk)
