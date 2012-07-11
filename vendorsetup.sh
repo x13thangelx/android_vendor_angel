@@ -1,9 +1,3 @@
-add_lunch_combo pete_crespo-user
-add_lunch_combo pete_crespo4g-user
-add_lunch_combo pete_emulator-eng
-add_lunch_combo pete_maguro-user
-add_lunch_combo pete_stingray-user
-add_lunch_combo pete_toro-user
-add_lunch_combo pete_toroplus-user
-add_lunch_combo pete_wingray-user
-
+add_lunch_combo angel_shadow-userdebug
+add_lunch_combo angel_droid2-userdebug
+add_lunch_combo angel_droid2we-userdebug
