@@ -5,7 +5,7 @@ $(call inherit-product, device/motorola/shadow/shadow.mk)
 $(call inherit-product, vendor/angel/products/common.mk)
 
 # Setup device specific product configuration.
-PRODUCT_NAME := angel_droid2
+PRODUCT_NAME := angel_shadow
 PRODUCT_BRAND := google
 PRODUCT_DEVICE := shadow
 PRODUCT_MODEL := DROID X
