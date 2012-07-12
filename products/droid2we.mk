@@ -21,9 +21,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/angel/overlay/2nd_gen
 
 # Copy crespo specific prebuilt files
 PRODUCT_COPY_FILES +=  \
-    vendor/angel/proprietary/crespo/app/Thinkfree.apk:system/app/Thinkfree.apk \
-    vendor/angel/proprietary/crespo/media/bootanimation.zip:system/media/bootanimation.zip \
-    vendor/angel/proprietary/tuna/media/audio/notifications/Nexus.mp3:system/media/audio/notifications/Nexus.mp3 \
+    vendor/angel/proprietary/common/media/bootanimation.zip:system/media/bootanimation.zip \
     vendor/angel/proprietary/common/app/Microbes.apk:system/app/Microbes.apk \
     vendor/angel/proprietary/common/lib/libmicrobes_jni.so:system/lib/libmicrobes_jni.so
 
