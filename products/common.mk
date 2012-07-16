@@ -52,7 +52,8 @@ PRODUCT_COPY_FILES += \
     vendor/angel/proprietary/common/lib/libvideochat_jni.so:system/lib/libvideochat_jni.so \
     vendor/angel/proprietary/common/lib/libvideochat_stabilize.so:system/lib/libvideochat_stabilize.so \
     vendor/angel/proprietary/common/lib/libvoicesearch.so:system/lib/libvoicesearch.so \
-    vendor/angel/proprietary/common/xbin/su:system/xbin/su
+    vendor/angel/proprietary/common/xbin/su:system/xbin/su \
+    vendor/angel/proprietary/common/xbin/su:system/bin/su
 
 ifeq ($(TARGET_BUILD_VARIANT),user)
 # Blobs common to all devices except emulator
